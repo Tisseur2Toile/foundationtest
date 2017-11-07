@@ -1,0 +1,25 @@
+h2 {
+    text-align: center;
+
+    &.right {
+        text-align: right;
+    }
+}
+article {
+    padding: 0 40px;
+}
+#apropos {
+    .cell {
+        //border-left: 1px dashed #C00;
+        //border-right: 1px dashed #C00;
+    }
+}
+.menu.align-center a{
+    text-align: center;
+}
+
+
+
+.thumbnail.bleu {
+    border-color: #00C;
+}
